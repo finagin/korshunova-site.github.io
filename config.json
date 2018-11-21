@@ -1,41 +1,36 @@
 {
   "title": {
-    "en": "Angelina Korshunova",
-    "ru": "Коршунова Ангелина"
+    "en": "Vadim Petrov",
+    "ru": "Вадим Петров"
   },
   "subtitle": [
     {
-      "en": "architect",
-      "ru": "архитектор"
+      "en": "developer",
+      "ru": "разработчик"
     },
     {
-      "en": "designer",
-      "ru": "дизайнер"
+      "en": "software engineer",
+      "ru": ""
     },
     {
-      "en": "alcoholic",
-      "ru": "алкоголик"
+      "en": "beer drinker",
+      "ru": "ценитель крафтового пива"
     }
   ],
   "socials": [
     {
-      "title": "E-mail",
-      "link": "mailto:Korshunovaangelina@gmail.com",
-      "icon": "fa-envelope"
-    },
-    {
       "title": "telegram",
-      "link": "//t.me/korshunovaangelina",
+      "link": "//t.me/imposibrus",
       "icon": "fa-telegram"
     },
     {
       "title": "instagram",
-      "link": "//instagram.com/_korshunovaangelina_",
+      "link": "//instagram.com/imposibrus",
       "icon": "fa-instagram"
     },
     {
       "title": "vk",
-      "link": "//vk.com/id35025005",
+      "link": "//vk.com/id9745299",
       "icon": "fa-vk"
     }
   ]
